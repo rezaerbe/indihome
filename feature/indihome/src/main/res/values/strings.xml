@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Store -->
+    <string name="text_hint_search">Search</string>
+    <string name="chip_filter">Filter</string>
+
+    <!-- Filter -->
+    <string name="text_filter">Filter</string>
+    <string name="button_reset">Reset</string>
+    <string name="text_sort">Sort</string>
+    <string name="text_rating">Rating</string>
+    <string name="text_sale">Sale</string>
+    <string name="text_lowest_price">Lowest price</string>
+    <string name="text_highest_price">Highest price</string>
+    <string name="text_category">Category</string>
+    <string name="text_apple">Apple</string>
+    <string name="text_asus">Asus</string>
+    <string name="text_dell">Dell</string>
+    <string name="text_lenovo">Lenovo</string>
+    <string name="text_price">Price</string>
+    <string name="text_hint_lowest">Lowest</string>
+    <string name="text_hint_highest">Highest</string>
+    <string name="button_show_product">Show Product</string>
+
+    <!-- Format -->
+    <string name="format_price">Rp%s</string>
+    <string name="format_rating_and_sale">%1$s | Sold %2$s</string>
+
+    <!-- Product -->
+    <string name="text_product_detail">Product Detail</string>
+    <string name="format_sale">Sold %d</string>
+    <string name="format_rating">\u2605 %1$s (%2$s)</string>
+    <string name="text_rating_all">/5.0</string>
+    <string name="format_satisfaction">%d%% user feel satisfied</string>
+    <!--suppress PluralsCandidate-->`
+    <string name="format_rating_and_review">%1$d rating · %2$d review</string>
+    <string name="button_buy_now">Buy Now</string>
+    <string name="button_cart">+ Cart</string>
+    <string name="text_choose_variant">Choose variant</string>
+    <string name="text_product_description">Product description</string>
+    <string name="text_user_review">User review</string>
+    <string name="button_see_all">See All</string>
+</resources>
